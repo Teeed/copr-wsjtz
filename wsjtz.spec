@@ -129,6 +129,9 @@ rm -f %{buildroot}%{_bindir}/rigctl*-wsjtx
 
 
 %changelog
+* Fri May 16 2025 Tadeusz Magura-Witkowski <tadeuszmw@gmail.com> 2.7.0_1.48-1
+- new package built with tito
+
 * Fri May 16 2025 Tadeusz Magura-Witkowski <tadeuszmw@gmail.com> - 2.7.0_1.48-1
 - Initial version, based on https://src.fedoraproject.org/rpms/wsjtx (a506bea2c1012741e27d171e7400387930b98469)
 
